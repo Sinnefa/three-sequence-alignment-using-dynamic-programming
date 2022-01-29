@@ -19,3 +19,5 @@ Let's now construct a scoring matrix H with size <img src="https://latex.codecog
 <p align="center">
 <img src="fig2.png" width="400">
 </p>
+
+Contact: sinnefa_at_gmail.com
